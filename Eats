@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EatsBitcoin.com - Your Premier Mining & AI Infrastructure</title>
+    <meta name="description" content="EatsBitcoin.com is building the future of digital assets and AI innovation through efficient cryptocurrency mining infrastructure.">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon"> <link rel="stylesheet" href="css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="/images/eatsbitcoin-logo.png" alt="EatsBitcoin Logo"> 
+                    <span>EatsBitcoin.com</span>
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About Us</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#technology">Technology</a></li>
+                    <li><a href="#sustainability">Sustainability</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="container">
+                <h1>Unlock the Future of Digital Assets with AI-Powered Mining</h1>
+                <p>EatsBitcoin.com is building the infrastructure that powers tomorrow's blockchain economy, optimized with cutting-edge AI.</p>
+                <a href="#services" class="btn primary-btn">Explore Our Services</a>
+                <a href="#contact" class="btn secondary-btn">Get in Touch</a>
+            </div>
+        </section>
+
+        <section id="about" class="about-us">
+            <div class="container">
+                <h2>About EatsBitcoin.com</h2>
+                <div class="about-content">
+                    <div class="text-content">
+                        <p>Founded in 2024, building on a deep understanding of the crypto landscape since 2019, EatsBitcoin.com is at the forefront of combining robust cryptocurrency mining operations with advanced Artificial Intelligence. Our mission is to deliver unparalleled efficiency, stability, and growth in the digital asset space.</p>
+                        <p>We believe in a future where decentralized technologies are powered by intelligent, sustainable, and scalable infrastructure. Our team comprises experts in blockchain, AI, data science, and large-scale operations, dedicated to pioneering the next generation of mining solutions.</p>
+                    </div>
+                    <div class="image-content">
+                        <img src="/images/about-us-team.jpg" alt="EatsBitcoin Team or Office">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="services" class="services">
+            <div class="container">
+                <h2>Our Core Services</h2>
+                <div class="service-grid">
+                    <div class="service-item">
+                        <h3>Crypto Mining Infrastructure</h3>
+                        <p>We design, build, and operate high-performance mining facilities utilizing the latest generation of hardware like Antminers, ensuring maximum uptime and efficiency.</p>
+                        <ul>
+                            <li>Large-scale Facility Management</li>
+                            <li>Hardware Procurement & Deployment</li>
+                            <li>Secure Operations</li>
+                        </ul>
+                    </div>
+                    <div class="service-item">
+                        <h3>AI-Powered Optimization</h3>
+                        <p>Leveraging proprietary AI algorithms, we optimize every aspect of our mining operations, from energy consumption and cooling to predictive maintenance and market analytics.</p>
+                        <ul>
+                            <li>Energy Cost Reduction</li>
+                            <li>Predictive Maintenance</li>
+                            <li>Operational Efficiency</li>
+                        </ul>
+                    </div>
+                    <div class="service-item">
+                        <h3>Partnerships & Solutions</h3>
+                        <p>We offer tailored B2B solutions for institutions and large-scale investors looking to enter or expand in the digital asset mining space.</p>
+                        <ul>
+                            <li>Custom Hosting Solutions</li>
+                            <li>Infrastructure Consultation</li>
+                            <li>Strategic Collaborations</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="technology" class="technology">
+            <div class="container">
+                <h2>Technology & Innovation</h2>
+                <div class="tech-grid">
+                    <div class="tech-item">
+                        <h3>State-of-the-Art Miners</h3>
+                        <p>Our facilities are equipped with the most advanced ASIC miners, including the latest Antminer models, ensuring superior hashing power and energy efficiency.</p>
+                        </div>
+                    <div class="tech-item">
+                        <h3>Advanced AI Integration</h3>
+                        <p>Our custom AI systems analyze real-time data from network difficulty, energy markets, and hardware performance to make intelligent decisions for optimal profitability and sustainability.</p>
+                        </div>
+                    <div class="tech-item">
+                        <h3>Robust Infrastructure</h3>
+                        <p>We prioritize secure, stable, and scalable infrastructure, including advanced cooling systems, redundant power supplies, and enterprise-grade networking.</p>
+                        </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="sustainability" class="sustainability">
+            <div class="container">
+                <h2>Commitment to Sustainability</h2>
+                <p>EatsBitcoin.com is dedicated to building a greener future for cryptocurrency mining. We actively seek out and implement sustainable energy solutions and efficient operational practices to minimize our environmental footprint.</p>
+                <ul>
+                    <li>Seeking Renewable Energy Sources</li>
+                    <li>Optimized Energy Consumption (AI-driven)</li>
+                    <li>Efficient Cooling & Waste Heat Management</li>
+                </ul>
+                </div>
+        </section>
+
+        <section id="contact" class="contact">
+            <div class="container">
+                <h2>Contact Us</h2>
+                <p>Have questions or ready to partner with EatsBitcoin.com? We'd love to hear from you.</p>
+                <form action="#" method="POST" class="contact-form">
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Subject:</label>
+                        <input type="text" id="subject" name="subject">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="btn primary-btn">Send Message</button>
+                </form>
+                <div class="contact-details">
+                    <p>Email: <a href="mailto:info@eatsbitcoin.com">info@eatsbitcoin.com</a></p>
+                    </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-logo">
+                    <img src="/images/eatsbitcoin-logo-white.png" alt="EatsBitcoin Logo White">
+                    <p>Building the future of digital assets.</p>
+                </div>
+                <div class="footer-links">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#services">Services</a></li>
+                        <li><a href="#technology">Technology</a></li>
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li> <li><a href="terms-of-service.html">Terms of Service</a></li> </ul>
+                </div>
+                <div class="footer-social">
+                    <h3>Connect With Us</h3>
+                    <ul>
+                        <li><a href="https://twitter.com/eatsbitcoin" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+                        <li><a href="https://linkedin.com/company/eatsbitcoin" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 EatsBitcoin.com. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    </body>
+</html>
